@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravender Singh Rana
+- 👋 Hi, I’m Ravender Singh Rana.
 - 👀 I’m interested in New Technologies like Data Analysis, Data Science, ML Engineer, Data Engineer, AI Engineer etc. 
 - 🌱 I’m currently learning Data Analysis.
 - 💞️ I’m looking to collaborate on Data Analysis.
